@@ -1,4 +1,7 @@
-# User Guide
+# Twitter-Bot User Guide
+
+#### Link for feedback comments: https://buymeacoffee.com/s.begum
+
 (1) Go to website = https://developer.x.com and log-in.
 
 (2) Create a new project (free version).  
